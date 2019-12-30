@@ -1,0 +1,14 @@
+
+plot 'dynamic_array_time_random.plot' using 1:3 w lines title "Amortized random", 'dynamic_array_time_ascendant.plot' using 1:3 w lines title "Amortized ascendant", 'dynamic_array_time_descandant.plot' using 1:3 w lines title "Amortized descendant"
+
+
+
+plot 'dynamic_array_memory_random.plot' using 1:3 w lines title "Amortized random", 'dynamic_array_memory_ascendant.plot' using 1:3 w lines title "Amortized ascendant", 'dynamic_array_memory_descandant.plot' using 1:3 w lines title "Amortized descendant"
+
+
+
+plot 'dynamic_array_time_random.plot' using 1:3 w lines title "Amortized random", 'dynamic_array_time_randompop.plot' using 1:3 w lines title "Amortized ascendant"
+
+plot 'dynamic_array_memory_random.plot' using 1:3 w lines title "Amortized random", 'dynamic_array_memory_randompop.plot' using 1:3 w lines title "Amortized ascendant"
+
+
