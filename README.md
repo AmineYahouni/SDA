@@ -37,7 +37,7 @@ Notre but a travers ce projet est de réalisé un prototype minimaliste de ce qu
 
 
 
-<li><strong>Tp-link HS100 :</strong></br><img src = "https://www.google.fr/images/srpr/logo11w.png" title = "google logo" alt = "Google logo"></li>
+<li><strong>Tp-link HS100 :</strong></br><img src = "https://github.com/institut-galilee/2020-smart-plug/blob/master/doc/tplink.jpg" title = "tplink" alt = "tplink"></li>
 <ol type="a">
 <li><strong>Description :</strong></li>
  
@@ -51,7 +51,7 @@ Le gros point fort de cette prise est la possibilité de la gérer vocalement av
 <p> 37.98 euros </p> 
 </ol>
 
-<li><strong>Bosch Smart Plug :</strong><img src = "https://www.google.fr/images/srpr/logo11w.png" title = "google logo" alt = "Google logo"></li>
+<li><strong>Bosch Smart Plug :</strong><img src = "https://github.com/institut-galilee/2020-smart-plug/blob/master/doc/bosch.jpg" title = "bosch" alt = "bosch"></li>
 <ol type "a">	
 <li><strong>Description</strong></li>
 <p>On ne présente plus la marque Bosch. L'enseigne tentaculaire allemande s'est imposée dans tous les secteurs de l'équipement intérieur, et les prises connectées ne font pas exception. En juillet 2017, Bosch sort sa prise « Bosch Smart Plug », avec la même ambition que nos voisins outre-Rhin : fournir tous les éléments domotiques permettant d'autonomiser une maison connectée.</p>
@@ -69,9 +69,9 @@ Elle propose le minimum mais Bosch mais le point sur la protection des données 
 <p>On aussi plein d’autre produit qui font la concurrence avec différentes marque comme : Elgato Eve Energy, Konyks Priska Mini, AwoxSmartPlug, Koogeek, Horsky Prise Connecté, Osram Smart +, BeeWi SmartPlug.</p>
 <h1>Etude Fonctionnelle</h1>
 <h2>Diagramme de cas d’utilisation</h2> 
-<img src = "https://www.google.fr/images/srpr/logo11w.png" title = "google logo" alt = "Google logo">
+<img src = "https://github.com/institut-galilee/2020-smart-plug/blob/master/doc/diag.png" title = "diag" alt = "diag">
 <h2>Prototypage Fritzing</h2>
-<img src = "https://www.google.fr/images/srpr/logo11w.png" title = "google logo" alt = "Google logo">
+<img src = "https://github.com/institut-galilee/2020-smart-plug/blob/master/doc/firtz.png" title = "fritz" alt = "fritz">
 
 <h1>Fonctionnalité</h1> 
 
