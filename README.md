@@ -86,5 +86,9 @@ Elle propose le minimum mais Bosch mais le point sur la protection des données 
 <li><strong>Capteur de courant :</strong></li> 
 <img src = "https://www.google.fr/images/srpr/logo11w.png" title = "google logo" alt = "Google logo">
 <p>Pour pouvoir mesurer la consommation électrique, il a couté 3euros</p>
+<li><strong>Cable pour connecter le tout :</strong></li> 
+<p>fourni par l’université</p>
+<li><strong>Barrette pour disposer le contrôleur et les composant :</strong></li>
+<p>fourni par l’université</p> 
 </ol>
 
