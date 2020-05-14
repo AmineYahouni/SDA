@@ -94,9 +94,9 @@ Elle propose le minimum mais Bosch mais le point sur la protection des données 
 
 <h2>Photo du Produit</h2>
 
-<img src = "https://www.google.fr/images/srpr/logo11w.png" title = "google logo" alt = "Google logo">
-<img src = "https://www.google.fr/images/srpr/logo11w.png" title = "google logo" alt = "Google logo">
-<img src = "https://www.google.fr/images/srpr/logo11w.png" title = "google logo" alt = "Google logo">
+<img src = "https://github.com/institut-galilee/2020-smart-plug/blob/master/doc/image1.jpg" title = "google logo" alt = "Google logo">
+<img src = "https://github.com/institut-galilee/2020-smart-plug/blob/master/doc/image2.jpg" title = "google logo" alt = "Google logo">
+<img src = "https://github.com/institut-galilee/2020-smart-plug/blob/master/doc/image3.jpg" title = "google logo" alt = "Google logo">
 
 <h2>interface web</h2>
 
