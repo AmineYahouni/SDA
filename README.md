@@ -92,3 +92,14 @@ Elle propose le minimum mais Bosch mais le point sur la protection des données 
 <p>fourni par l’université</p> 
 </ol>
 
+<h2>Photo du Produit</h2>
+
+<img src = "https://www.google.fr/images/srpr/logo11w.png" title = "google logo" alt = "Google logo">
+<img src = "https://www.google.fr/images/srpr/logo11w.png" title = "google logo" alt = "Google logo">
+<img src = "https://www.google.fr/images/srpr/logo11w.png" title = "google logo" alt = "Google logo">
+
+<h2>interface web</h2>
+
+<img src = "https://www.google.fr/images/srpr/logo11w.png" title = "google logo" alt = "Google logo">
+<img src = "https://www.google.fr/images/srpr/logo11w.png" title = "google logo" alt = "Google logo">
+<img src = "https://www.google.fr/images/srpr/logo11w.png" title = "google logo" alt = "Google logo">
