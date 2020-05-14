@@ -51,7 +51,7 @@ Le gros point fort de cette prise est la possibilité de la gérer vocalement av
 <p> 37.98 euros </p> 
 </ol>
 
-<li><strong>Bosch Smart Plug :</strong><img src = "https://github.com/institut-galilee/2020-smart-plug/blob/master/doc/bosch.jpg" title = "bosch" alt = "bosch"></li>
+<li><strong>Bosch Smart Plug :</strong><img src = "https://github.com/institut-galilee/2020-smart-plug/blob/master/doc/bosch.png" title = "bosch" alt = "bosch"></li>
 <ol type "a">	
 <li><strong>Description</strong></li>
 <p>On ne présente plus la marque Bosch. L'enseigne tentaculaire allemande s'est imposée dans tous les secteurs de l'équipement intérieur, et les prises connectées ne font pas exception. En juillet 2017, Bosch sort sa prise « Bosch Smart Plug », avec la même ambition que nos voisins outre-Rhin : fournir tous les éléments domotiques permettant d'autonomiser une maison connectée.</p>
@@ -78,13 +78,13 @@ Elle propose le minimum mais Bosch mais le point sur la protection des données 
 <h2>Matériels utilisés</h2> 
 <ol type"1">
 <li><strong>Un microcontrôleur :</strong></li>
-<img src = "https://www.google.fr/images/srpr/logo11w.png" title = "google logo" alt = "Google logo">
+<img src = "https://github.com/institut-galilee/2020-smart-plug/blob/master/doc/micro.png" title = "google logo" alt = "Google logo">
 <p>ESP32 qui nous a été remis par l’université au début du semestre</p>
 <li><strong>Relay :</strong></li>
-<img src = "https://www.google.fr/images/srpr/logo11w.png" title = "google logo" alt = "Google logo">
+<img src = "https://github.com/institut-galilee/2020-smart-plug/blob/master/doc/relay.png" title = "google logo" alt = "Google logo">
 <p>Afin de relier le microcontrôleur a la prise et il a couté 3 euros</p>
 <li><strong>Capteur de courant :</strong></li> 
-<img src = "https://www.google.fr/images/srpr/logo11w.png" title = "google logo" alt = "Google logo">
+<img src = "https://github.com/institut-galilee/2020-smart-plug/blob/master/doc/capt.png" title = "google logo" alt = "Google logo">
 <p>Pour pouvoir mesurer la consommation électrique, il a couté 3euros</p>
 <li><strong>Cable pour connecter le tout :</strong></li> 
 <p>fourni par l’université</p>
