@@ -24,5 +24,17 @@ Notre but a travers ce projet est de réalisé un prototype minimaliste de ce qu
 <p>Il existe aujourd’hui un bon nombre de grand groupe qui travail sur les maison en connecté et en particulier sur les prises connectées, plusieurs solutions sont offertes avec pour chacune des fonctionnalité en plus ou en moins, on va donc essayer de faire un petit top 3 des produit les mieux vendu en France dans le domaine</p>
 <ol>
 <li>Belkin WeMo Insight : </br><img src = "https://www.google.fr/images/srpr/logo11w.png" title = "google logo" alt = "Google logo">
+
+
+a.	 Description 
+<p>Belkin est une marque américaine spécialisée dans la fabrication de matériel informatique. D'abord spécialisée dans la connectique informatique, l'entreprise, basée à Los Angeles, s'est diversifiée et propose aujourd'hui des accessoires téléphoniques et réseaux. Elle ne manque pas à l'appel en matière de prises connectées, accessoires de plus en plus en vogue.
+b.	Fonctionnalité </p>
+<p>Elle est appréciée du grand publique pour sa complétude, elle offre plusieurs fonctionnalité, elle propose donc une application de gestion d’une simplicité qui fait son succès, elle se connecte en wifi, l’application permet donc une gestion à distance de la prise et un enregistrement des temps d’activité mais aussi les temps de veilles, elle est aussi capable de se couplet avec des applications IFTT (des applications « IF THEN ELSE ») </p>
+c.	Ordre de prix 
+<p>45 euros</p>
+
+
+
+
 </li>
 </ol>
