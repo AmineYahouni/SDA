@@ -51,7 +51,7 @@ Le gros point fort de cette prise est la possibilité de la gérer vocalement av
 <p> 37.98 euros </p> 
 </ol>
 
-<li><strong>Bosch Smart Plug :</strong></li>
+<li><strong>Bosch Smart Plug :</strong><img src = "https://www.google.fr/images/srpr/logo11w.png" title = "google logo" alt = "Google logo"></li>
 <ol type "a">	
 <li><strong>Description</strong></li>
 <p>On ne présente plus la marque Bosch. L'enseigne tentaculaire allemande s'est imposée dans tous les secteurs de l'équipement intérieur, et les prises connectées ne font pas exception. En juillet 2017, Bosch sort sa prise « Bosch Smart Plug », avec la même ambition que nos voisins outre-Rhin : fournir tous les éléments domotiques permettant d'autonomiser une maison connectée.</p>
@@ -64,4 +64,9 @@ Elle propose le minimum mais Bosch mais le point sur la protection des données 
 
 
 </li>
+
 </ol>
+<p>On aussi plein d’autre produit qui font la concurrence avec différentes marque comme : Elgato Eve Energy, Konyks Priska Mini, AwoxSmartPlug, Koogeek, Horsky Prise Connecté, Osram Smart +, BeeWi SmartPlug.</p>
+<h1>Etude Fonctionnelle</h1>
+<h2>Diagramme de cas d’utilisation</h2> 
+<img src = "https://www.google.fr/images/srpr/logo11w.png" title = "google logo" alt = "Google logo">
