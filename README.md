@@ -72,4 +72,19 @@ Elle propose le minimum mais Bosch mais le point sur la protection des données 
 <img src = "https://www.google.fr/images/srpr/logo11w.png" title = "google logo" alt = "Google logo">
 <h2>Prototypage Fritzing</h2>
 <img src = "https://www.google.fr/images/srpr/logo11w.png" title = "google logo" alt = "Google logo">
- 
+
+<h1>Fonctionnalité</h1> 
+
+<h2>Matériels utilisés</h2> 
+<ol>
+<li>Un microcontrôleur :</li>
+<img src = "https://www.google.fr/images/srpr/logo11w.png" title = "google logo" alt = "Google logo">
+<p>ESP32 qui nous a été remis par l’université au début du semestre</p>
+<li>Relay :</li>
+<img src = "https://www.google.fr/images/srpr/logo11w.png" title = "google logo" alt = "Google logo">
+<p>Afin de relier le microcontrôleur a la prise et il a couté 3 euros</p>
+<li>Capteur de courant :</li> 
+<img src = "https://www.google.fr/images/srpr/logo11w.png" title = "google logo" alt = "Google logo">
+<p>Pour pouvoir mesurer la consommation électrique, il a couté 3euros</p>
+</ol>
+
