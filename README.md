@@ -23,31 +23,31 @@ Notre but a travers ce projet est de réalisé un prototype minimaliste de ce qu
 <h2>Solutions Existante</h2>
 <p>Il existe aujourd’hui un bon nombre de grand groupe qui travail sur les maison en connecté et en particulier sur les prises connectées, plusieurs solutions sont offertes avec pour chacune des fonctionnalité en plus ou en moins, on va donc essayer de faire un petit top 3 des produit les mieux vendu en France dans le domaine</p>
 <ol>
-<li>Belkin WeMo Insight : </br><img src = "https://www.google.fr/images/srpr/logo11w.png" title = "google logo" alt = "Google logo">
+<li><strong>Belkin WeMo Insight :</strong> </br><img src = "https://www.google.fr/images/srpr/logo11w.png" title = "google logo" alt = "Google logo">
 
 <ol type="a">
-<li>Description</li>
+<li><strong>Description</strong></li>
 <p>Belkin est une marque américaine spécialisée dans la fabrication de matériel informatique. D'abord spécialisée dans la connectique informatique, l'entreprise, basée à Los Angeles, s'est diversifiée et propose aujourd'hui des accessoires téléphoniques et réseaux. Elle ne manque pas à l'appel en matière de prises connectées, accessoires de plus en plus en vogue.</p>
-<li>Fonctionnalité</li>
+<li><strong>Fonctionnalité</strong></li>
 <p>Elle est appréciée du grand publique pour sa complétude, elle offre plusieurs fonctionnalité, elle propose donc une application de gestion d’une simplicité qui fait son succès, elle se connecte en wifi, l’application permet donc une gestion à distance de la prise et un enregistrement des temps d’activité mais aussi les temps de veilles, elle est aussi capable de se couplet avec des applications IFTT (des applications « IF THEN ELSE ») </p>
-<li>Ordre de prix </li>
+<li><strong>Ordre de prix </strong></li>
 <p>45 euros</p>
 
 </ol>
 
 
 
-<li>Tp-link HS100 :</br><img src = "https://www.google.fr/images/srpr/logo11w.png" title = "google logo" alt = "Google logo"></li>
+<li><strong>Tp-link HS100 :</strong></li>
 <ol type="a">
-<li>Description :</li>
+<li><strong>Description :</strong></li>
  
 <p>TP-Link a fait des outils technologiques sa spécialité. Comme bon nombre de ses concurrents, l'entreprise chinoise s'est lancée dans le secteur des prises connectées en concevant son modèle : la prise connectée TP-Link HS100.</p>
 
-<li>Fonctionnalité :</li>
+<li><strong>Fonctionnalité :</strong></li>
 
 <p>Pour l'installation, il faut télécharger l'application Kasa, qui permettra de contrôler à distance la prise et de la lier au réseau Wi-Fi domestique en connexion directe
 Le gros point fort de cette prise est la possibilité de la gérer vocalement avec Alexa ou Google Home, mais elle propose aussi l’allumage a distance ou programmé, mais aussi la création de scène par exemple crée une scène « coucher » qui éteindra tout a une heure précise </p>
-<li>Ordre de prix :</li>
+<li><strong>Ordre de prix :</strong></li>
 <p> 37.98 euros </p> 
 </ol>
 
