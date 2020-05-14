@@ -16,3 +16,13 @@ Notre but a travers ce projet est de réalisé un prototype minimaliste de ce qu
 <li>Chronométré le temps d’utilisation : lors du lancement en mode on de notre prise, un chronomètre se lancera et affichera le temps d’utilisation exacte de la prise.</li>
 <li>Mesure de consommation électrique</li>
 </ol>
+
+
+
+<h1>Etat de l’art</h1> 
+<h2>Solutions Existante</h2>
+<p>Il existe aujourd’hui un bon nombre de grand groupe qui travail sur les maison en connecté et en particulier sur les prises connectées, plusieurs solutions sont offertes avec pour chacune des fonctionnalité en plus ou en moins, on va donc essayer de faire un petit top 3 des produit les mieux vendu en France dans le domaine</p>
+<ol>
+<li>Belkin WeMo Insight : <img src = "https://www.google.fr/images/srpr/logo11w.png" title = "google logo" alt = "Google logo">
+</li>
+</ol>
