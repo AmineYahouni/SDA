@@ -36,5 +36,20 @@ Notre but a travers ce projet est de réalisé un prototype minimaliste de ce qu
 </ol>
 
 
+
+<li>Tp-link HS100 :</br><img src = "https://www.google.fr/images/srpr/logo11w.png" title = "google logo" alt = "Google logo"></li>
+<ol type="a">
+<li>Description :</li>
+ 
+<p>TP-Link a fait des outils technologiques sa spécialité. Comme bon nombre de ses concurrents, l'entreprise chinoise s'est lancée dans le secteur des prises connectées en concevant son modèle : la prise connectée TP-Link HS100.</p>
+
+<li>Fonctionnalité :</li>
+
+<p>Pour l'installation, il faut télécharger l'application Kasa, qui permettra de contrôler à distance la prise et de la lier au réseau Wi-Fi domestique en connexion directe
+Le gros point fort de cette prise est la possibilité de la gérer vocalement avec Alexa ou Google Home, mais elle propose aussi l’allumage a distance ou programmé, mais aussi la création de scène par exemple crée une scène « coucher » qui éteindra tout a une heure précise </p>
+<li>Ordre de prix :</li>
+<p> 37.98 euros </p> 
+</ol>
+
 </li>
 </ol>
