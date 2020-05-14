@@ -103,3 +103,10 @@ Elle propose le minimum mais Bosch mais le point sur la protection des données 
 <img src = "https://www.google.fr/images/srpr/logo11w.png" title = "google logo" alt = "Google logo">
 <img src = "https://www.google.fr/images/srpr/logo11w.png" title = "google logo" alt = "Google logo">
 <img src = "https://www.google.fr/images/srpr/logo11w.png" title = "google logo" alt = "Google logo">
+
+
+<h1>Conclusion</h1>
+<p>Pour conclure, on commence tout d’abord par remercier Mr Osmani et Mr Hamidi de nous avoir permis de travailler sur de tels sujets mais aussi pour leur implications et les cours dispensé.
+Par ailleurs, a travers ce cour et ce projets nous avons eu l’occasion de découvrir un univers qu’on ne connaissait que de nom, on a abordé une thématique du quotidien, et l’avons résolu avec les moyens du bord.
+Ce projet nous a ouvert les porte vers un peu d’électronique puisque on a pu faire quelque recherche sur les capteur et comment brancher le system, nous avons aussi appris à réaliser un état de l’art avec les solutions existante sur le marché.
+Nous espérons pouvoir apporter plein d’autre amélioration a notre produit par la suite en y ajoutant quelque fonctionnalité en vogue ces dernière année comme la commande vocal.</p>
