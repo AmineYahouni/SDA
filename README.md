@@ -51,5 +51,17 @@ Le gros point fort de cette prise est la possibilité de la gérer vocalement av
 <p> 37.98 euros </p> 
 </ol>
 
+<li><strong>Bosch Smart Plug :</strong></li>
+<ol type "a">	
+<li><sstrong>Description</sstrong></li>
+<p>On ne présente plus la marque Bosch. L'enseigne tentaculaire allemande s'est imposée dans tous les secteurs de l'équipement intérieur, et les prises connectées ne font pas exception. En juillet 2017, Bosch sort sa prise « Bosch Smart Plug », avec la même ambition que nos voisins outre-Rhin : fournir tous les éléments domotiques permettant d'autonomiser une maison connectée.</p>
+<li>Fonctionnalité</li> 
+<p>Du côté des fonctionnalités, l'application Bosch reste très traditionnelle. Il est donc possible d'allumer et d'éteindre la prise et un clic, de lire les données de consommation en temps réel, et de programmer une mise en route/un arrêt à une heure précise. Une fonctionnalité pratique pour mettre en route sa machine à café le matin à telle heure et la faire s'arrêter 15 minutes après, par exemple
+Elle propose le minimum mais Bosch mais le point sur la protection des données de leurs utilisateurs </p>
+<li>Ordre de Prix :</li> 
+<p>85.20 euros</p>
+
+
+
 </li>
 </ol>
