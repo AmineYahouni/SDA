@@ -23,7 +23,7 @@ Notre but a travers ce projet est de réalisé un prototype minimaliste de ce qu
 <h2>Solutions Existante</h2>
 <p>Il existe aujourd’hui un bon nombre de grand groupe qui travail sur les maison en connecté et en particulier sur les prises connectées, plusieurs solutions sont offertes avec pour chacune des fonctionnalité en plus ou en moins, on va donc essayer de faire un petit top 3 des produit les mieux vendu en France dans le domaine</p>
 <ol>
-<li><strong>Belkin WeMo Insight :</strong> </br><img src = "https://www.google.fr/images/srpr/logo11w.png" title = "google logo" alt = "Google logo">
+<li><strong>Belkin WeMo Insight :</strong> </br><img src = "https://www.google.fr/images/srpr/logo11w.png" title = "google logo" alt = "Google logo"></li>
 
 <ol type="a">
 <li><strong>Description</strong></li>
@@ -37,7 +37,7 @@ Notre but a travers ce projet est de réalisé un prototype minimaliste de ce qu
 
 
 
-<li><strong>Tp-link HS100 :</strong></li>
+<li><strong>Tp-link HS100 :</strong></br><img src = "https://www.google.fr/images/srpr/logo11w.png" title = "google logo" alt = "Google logo"></li>
 <ol type="a">
 <li><strong>Description :</strong></li>
  
