@@ -70,3 +70,6 @@ Elle propose le minimum mais Bosch mais le point sur la protection des données 
 <h1>Etude Fonctionnelle</h1>
 <h2>Diagramme de cas d’utilisation</h2> 
 <img src = "https://www.google.fr/images/srpr/logo11w.png" title = "google logo" alt = "Google logo">
+<h2>Prototypage Fritzing</h2>
+<img src = "https://www.google.fr/images/srpr/logo11w.png" title = "google logo" alt = "Google logo">
+ 
